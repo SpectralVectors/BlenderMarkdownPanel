@@ -1,4 +1,4 @@
-# Blender Markdown
+# Blender Markdown Panel
 A custom panel for displaying Markdown files in Blender
 
 Updated for Blender 4 Compatibility
